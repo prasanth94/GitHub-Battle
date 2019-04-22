@@ -1,0 +1,259 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lo",
+				"loan_amount"
+			],
+			[
+				"stl",
+				"style	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/prasanth/Javascript  Projects/Silly Paragraphs/main.js",
+		"/home/prasanth/Javascript  Projects/Silly Paragraphs/index.html",
+		"/home/prasanth/main.js",
+		"/home/prasanth/react/package.json",
+		"/home/prasanth/Rails Projects/amortization_schedule/spec/spec_helper.rb",
+		"/home/prasanth/Rails Projects/amortization_schedule/spec/rails_helper.rb",
+		"/home/prasanth/Rails Projects/amortization_schedule/app/assets/javascripts/application.js",
+		"/home/prasanth/Rails Projects/amortization_schedule/app/assets/stylesheets/application.css.scss",
+		"/home/prasanth/Rails Projects/amortization_schedule/.gitignore",
+		"/home/prasanth/Rails Projects/amortization_schedule/README.rdoc",
+		"/home/prasanth/Rails Projects/amortization_schedule/.ruby-version",
+		"/home/prasanth/Rails Projects/amortization_schedule/Gemfile",
+		"/home/prasanth/Rails Projects/amortization_schedule/app/assets/stylesheets/application.css",
+		"/home/prasanth/Amortization Calculator/amortization.rb",
+		"/home/prasanth/Rails Projects/IdeaHub/spec/helpers/sessions_helper_spec.rb",
+		"/home/prasanth/Rails Projects/IdeaHub/spec/helpers/ideas_helper_spec.rb",
+		"/home/prasanth/Rails Projects/IdeaHub/config/routes.rb",
+		"/home/prasanth/Rails Projects/IdeaHub/spec/routing/sessions_routing_spec.rb",
+		"/home/prasanth/Rails Projects/IdeaHub/spec/routing/users_routing_spec.rb",
+		"/home/prasanth/Rails Projects/IdeaHub/spec/routing/ideas_routing_spec.rb",
+		"/home/prasanth/Rails Projects/IdeaHub/spec/routing/ideas_routing_spec",
+		"/home/prasanth/Rails Projects/IdeaHub/app/models/idea_tagging.rb",
+		"/home/prasanth/Rails Projects/IdeaHub/app/controllers/users_controller.rb",
+		"/home/prasanth/Rails Projects/IdeaHub/app/controllers/sessions_controller.rb",
+		"/home/prasanth/Rails Projects/IdeaHub/app/views/ideas/show.html.erb",
+		"/home/prasanth/Rails Projects/IdeaHub/app/views/ideas/_form.html.erb",
+		"/home/prasanth/Rails Projects/IdeaHub/app/models/tag.rb",
+		"/home/prasanth/Rails Projects/IdeaHub/app/views/ideas/index.html.erb",
+		"/home/prasanth/Rails Projects/IdeaHub/spec/rails_helper.rb",
+		"/home/prasanth/Rails Projects/IdeaHub/spec/factories/idea_taggings.rb",
+		"/home/prasanth/Rails Projects/IdeaHub/spec/models/idea_tagging_spec.rb",
+		"/home/prasanth/Rails Projects/IdeaHub/spec/models/idea_spec.rb",
+		"/home/prasanth/Rails Projects/IdeaHub/spec/models/tag_spec.rb",
+		"/home/prasanth/Rails Projects/IdeaHub/spec/factories/ideas.rb",
+		"/home/prasanth/Rails Projects/IdeaHub/spec/factories/tags.rb",
+		"/home/prasanth/Rails Projects/IdeaHub/spec/factories/users.rb",
+		"/home/prasanth/Rails Projects/IdeaHub/app/views/users/_form.html.erb",
+		"/home/prasanth/Rails Projects/IdeaHub/app/views/shared/_error_messages.html.erb",
+		"/home/prasanth/Rails Projects/IdeaHub/db/migrate/20170430152600_create_ideas.rb",
+		"/home/prasanth/Rails Projects/IdeaHub/app/views/users/new.html.erb",
+		"/home/prasanth/Rails Projects/IdeaHub/app/views/layouts/application.html.erb",
+		"/home/prasanth/Rails Projects/IdeaHub/app/views/sessions/new.html.erb",
+		"/home/prasanth/Rails Projects/IdeaHub/app/views/ideas/new.html.erb",
+		"/home/prasanth/Rails Projects/IdeaHub/app/views/ideas/edit.html.erb",
+		"/home/prasanth/Rails Projects/IdeaHub/app/assets/stylesheets/users.scss",
+		"/home/prasanth/Rails Projects/IdeaHub/app/views/users/show.html.erb",
+		"/home/prasanth/Rails Projects/IdeaHub/app/models/idea.rb",
+		"/home/prasanth/Rails Projects/IdeaHub/.ruby-version",
+		"/home/prasanth/Rails Projects/IdeaHub/Gemfile",
+		"/home/prasanth/Rails Projects/IdeaHub/.ruby-gemset",
+		"/home/prasanth/Rails Projects/DinnerDash-master/db/seeds.rb",
+		"/home/prasanth/Rails Projects/DinnerDash-master/app/views/static_pages/home.html.erb",
+		"/home/prasanth/Rails Projects/DinnerDash-master/app/models/order.rb",
+		"/home/prasanth/Rails Projects/DinnerDash-master/spec/controllers/carts_controller_spec.rb",
+		"/home/prasanth/Rails Projects/Trip-Hub/spec/controllers/trips_controller_spec.rb",
+		"/home/prasanth/Rails Projects/Trip-Hub/spec/support/controller_macros.rb",
+		"/home/prasanth/Rails Projects/Trip-Hub/config/routes.rb",
+		"/home/prasanth/Rails Projects/Trip-Hub/app/controllers/users_controller.rb",
+		"/home/prasanth/Rails Projects/Trip-Hub/spec/controllers/users_controller_spec.rb",
+		"/home/prasanth/Downloads/poodr-master/chapter_2.rb",
+		"/home/prasanth/Rails Projects/Trip-Hub/spec/models/user_spec.rb",
+		"/home/prasanth/Rails Projects/Trip-Hub/app/controllers/trips_controller.rb",
+		"/home/prasanth/Rails Projects/Trip-Hub/spec/controllers/shared_examples/every_controllers.rb",
+		"/home/prasanth/Rails Projects/Trip-Hub/spec/rails_helper.rb",
+		"/home/prasanth/Rails Projects/Trip-Hub/spec/controllers/registrations_controller_spec.rb",
+		"/home/prasanth/Rails Projects/Trip-Hub/db/migrate/20170122073835_trip.rb",
+		"/home/prasanth/Rails Projects/Trip-Hub/app/views/devise/shared/_links.html.erb",
+		"/home/prasanth/Rails Projects/Trip-Hub/config/initializers/devise.rb",
+		"/home/prasanth/Rails Projects/Trip-Hub/README.rdoc",
+		"/home/prasanth/Rails Projects/Trip-Hub/app/controllers/users/omniauth_callbacks_controller.rb",
+		"/home/prasanth/Rails Projects/Trip-Hub/app/controllers/homepage_controller.rb",
+		"/home/prasanth/Rails Projects/Trip-Hub/app/models/user.rb",
+		"/home/prasanth/Rails Projects/Trip-Hub/app/views/shared/_navbar.html.erb",
+		"/home/prasanth/Rails Projects/Trip-Hub/app/views/layouts/application.html.erb",
+		"/home/prasanth/Rails Projects/Trip-Hub/app/assets/stylesheets/trips.scss",
+		"/home/prasanth/Rails Projects/Trip-Hub/app/views/devise/registrations/edit.html.erb",
+		"/home/prasanth/Rails Projects/Trip-Hub/app/views/users/show.html.erb",
+		"/home/prasanth/Rails Projects/Trip-Hub/app/views/users/_follow_form.html.erb",
+		"/home/prasanth/Rails Projects/Trip-Hub/app/views/trips/show.html.erb",
+		"/home/prasanth/Rails Projects/Trip-Hub/app/assets/stylesheets/users.scss",
+		"/home/prasanth/Rails Projects/Trip-Hub/app/views/users/show_follow.html.erb",
+		"/home/prasanth/Rails Projects/Trip-Hub/Gemfile",
+		"/home/prasanth/Rails Projects/Trip-Hub/Procfile",
+		"/home/prasanth/Rails Projects/Trip-Hub/app/views/trips/new.html.erb",
+		"/home/prasanth/Rails Projects/Trip-Hub/db/migrate/20170122073836_users.rb"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"owner_id",
+			"gallery_params"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 279.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
